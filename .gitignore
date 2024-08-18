@@ -1,0 +1,6 @@
+.terraform
+*.tfstate
+*.tfstate
+*.lock.hcl
+*.exe
+modules/services/webserver-cluster/windows_amd64/terraform-provider-aws_v5.63.0_x5.exe
